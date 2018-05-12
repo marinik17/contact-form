@@ -1,16 +1,3 @@
-# contact-form
-<!doctype html>
-
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title>Reusable Form Readme First</title>
-  <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
-
-</head>
-
 <body>
 <div class="container">
 <div class="row">
